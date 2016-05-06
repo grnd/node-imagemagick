@@ -1,4 +1,4 @@
-This is a safe version of (imagemagick)(https://www.npmjs.com/package/imagemagick) npm package, addressing the (ImageTragick)[https://imagetragick.com/] vulnerabilities by disabling the vulnerable pieces of functionality, using the following ImageMagick policy:
+This is a safe version of [imagemagick](https://www.npmjs.com/package/imagemagick) npm package, addressing the [ImageTragick](https://imagetragick.com/) vulnerabilities by disabling the vulnerable pieces of functionality, using the following ImageMagick policy:
 
 ```xml
 <policymap>
@@ -14,7 +14,7 @@ This is a safe version of (imagemagick)(https://www.npmjs.com/package/imagemagic
 </policymap>
 ```
 
-For more details, see this blog post (link to https://snyk.io/blog/safe-imagemagick-for-node/)
+For more details, see this [blog post](https://snyk.io/blog/safe-imagemagick-for-node/)
 
 
 ## License (MIT)
