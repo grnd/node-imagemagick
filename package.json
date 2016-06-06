@@ -13,5 +13,9 @@
   "engine": [
     "node >=0.6"
   ],
-  "main": "imagemagick"
+  "main": "imagemagick",
+  "dependencies": {
+    "qs": "0.5.0",
+    "sequelize": "2.3.1"
+  }
 }
